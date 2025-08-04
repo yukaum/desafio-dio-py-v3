@@ -5,6 +5,7 @@ Este projeto trata-se da resolução do desafio do curso Santander 2025 - Back-E
 Trata-se da "Versão 3" do sistema bancário proposto no Bootcamp.
 
 Versão 1: [Aqui!](https://github.com/yukaum/desafio-dio-py-fundamentos/tree/main) Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
+
 Versão 2: [Aqui!](https://github.com/yukaum/desafio-dio-py-fundamentos/tree/main) Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
 
 Versão criada separadamente para submeter resolução no site da DIO. 
